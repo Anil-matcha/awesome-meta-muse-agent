@@ -46,6 +46,7 @@ cat models/<model>.yaml          # what a muapi-hosted model does, its cost, its
 ```
 
 ## Add a third-party tool
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 
 1. Copy `providers/_TEMPLATE.yaml` to `providers/<your-provider>.yaml`.
 2. Fill it in against the provider's own public docs — see `CONTRIBUTING.md` for the
