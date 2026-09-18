@@ -46,6 +46,7 @@ cat models/<model>.yaml          # what a muapi-hosted model does, its cost, its
 ```
 
 ## Add a third-party tool
+- [marketing-engineer-playbook](https://github.com/axelfreeman/marketing-engineer-playbook) — open method for building a marketing function from scratch: offer, distribution, measurement, kill rules; with a free [kill-rule calculator](https://axelfreeman.github.io/marketing-mindset/tools/kill-rule-calculator.html) and [test-size planner](https://axelfreeman.github.io/marketing-mindset/tools/email-test-planner.html)
 
 1. Copy `providers/_TEMPLATE.yaml` to `providers/<your-provider>.yaml`.
 2. Fill it in against the provider's own public docs — see `CONTRIBUTING.md` for the
